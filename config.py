@@ -40,9 +40,9 @@ START_PIC = os.environ.get("START_PIC", "https://envs.sh/eAF.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/eAF.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshortify.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
-VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 20)) # Add time in seconds
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "ATGLinks.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "49e836a49e2662195606e80119e468680ae90edf")
+VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
