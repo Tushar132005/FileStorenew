@@ -91,7 +91,7 @@ USER_REPLY_TEXT = "❌Don't send me messages directly Dm here if u have any prob
 
 #==========================(BUY PREMIUM)====================#
 
-OWNER_TAG = os.environ.get("OWNER_TAG", "@HKOWNER0")
+OWNER_TAG = os.environ.get("OWNER_TAG", "HKOWNER0")
 UPI_ID = os.environ.get("UPI_ID", "Contact me With Your Plan :- @HKOWNER0")
 QR_PIC = os.environ.get("QR_PIC", "https://envs.sh/eAF.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/HKOWNER0")
